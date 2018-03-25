@@ -1,0 +1,3 @@
+http协议特点：短连接，单向链接
+websocket:双向推动
+nodejs；利用emscript开发的应用于服务端的语言
